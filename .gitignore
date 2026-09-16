@@ -1,0 +1,12 @@
+# Dados gerados/local
+*.csv
+*.parquet
+*.duckdb
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/

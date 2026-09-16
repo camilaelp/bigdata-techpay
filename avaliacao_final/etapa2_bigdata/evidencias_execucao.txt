@@ -1,0 +1,12 @@
+raw_transactions: 30000 linhas
+bronze_transactions: 30000 linhas
+silver_transactions: 30000 linhas
+gold_risco_canal_categoria: 24 linhas
+gold_risco_temporal_segmento: 144 linhas
+
+Fraude por canal:
+channel  total  fraudes  taxa_fraude_pct
+    app  12021    455.0             3.79
+    atm   3007     54.0             1.80
+    web   9004    157.0             1.74
+    pos   5968     85.0             1.42
