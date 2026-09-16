@@ -1,4 +1,4 @@
-# Big Data para Negócios — Avaliação Final (modelo adaptável)
+# Big Data para Negócios — Avaliação Final
 
 Este repositório organiza uma proposta completa para a avaliação final da disciplina, usando a rota sem privilégios administrativos: **DuckDB + Python + Plotly**.
 
