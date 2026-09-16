@@ -1,6 +1,6 @@
 # Big Data para Negócios — Avaliação Final
 
-Este repositório organiza uma proposta completa para a avaliação final da disciplina, usando a rota sem privilégios administrativos: **DuckDB + Python + Plotly**.
+Este repositório contém os arquivos desenvolvidos para a avaliação final da disciplina Big Data para Negócios, utilizando a rota sem privilégios administrativos com DuckDB, Python e Plotly.
 
 ## Como usar
 
